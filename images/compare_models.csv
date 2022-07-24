@@ -1,0 +1,5 @@
+Model,Mean Absolute Error,Mean Squared Error,R2
+Random Forest,4.21,39.28,0.99
+Decision Tree,5.61,74.66,0.98
+Multiple Linear Regression,9.11,151.49,0.96
+Support Vector Machine,13.76,396.66,0.9
