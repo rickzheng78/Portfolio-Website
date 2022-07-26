@@ -6,5 +6,5 @@
 <br>
 
 <p align = "center">
-<img height = "705" width = "706" src= "https://dancingastronaut.com/wp-content/uploads/2022/04/louis.jpg"/></a>
+<img height = "405" width = "606" src= "https://dancingastronaut.com/wp-content/uploads/2022/04/louis.jpg"/></a>
 </p>
