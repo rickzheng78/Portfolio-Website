@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-<a href="https://rickz-portfolio.herokuapp.com/" target="_blank">Visit Rick's Portfolio </a>
+<a href="https://rickz-portfolio.herokuapp.com/" target="_blank">Visit Rick's Professional Portfolio </a>
 </p>
 <br>
 
