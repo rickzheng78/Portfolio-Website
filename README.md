@@ -1,6 +1,6 @@
-# Rick Zheng -- UC Santa Barbara 2022 
+#                                           Rick Zheng -- UC Santa Barbara 2022 
 
-<p align="left">
+<p align="center">
 <a href="https://rickz-portfolio.herokuapp.com/" target="_blank">Visit Rick's Portfolio </a>
 </p>
 <br>
