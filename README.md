@@ -1,7 +1,5 @@
-# Rick Zheng -- UC Santa Barbara 2022 
-
 <div align="center">
-  <center><h1>Santa Barbara</h1></center>
+  <center><h1>Rick Zheng</h1></center>
 </div>
 
 <br/>
