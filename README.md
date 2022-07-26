@@ -3,9 +3,7 @@
 </div>
 
 <br/>
-
 <div align="center">
-
 <b>Santa Barbara 2022</b>
  
 </div>
