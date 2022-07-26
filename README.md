@@ -7,7 +7,9 @@
 <div align="center">
 <b>Santa Barbara 2022</b>
  
+  
 </div>
+
 <p align="center">
 <a href="https://rickz-portfolio.herokuapp.com/" target="_blank">Visit Rick's Portfolio </a>
 </p>
