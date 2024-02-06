@@ -5,12 +5,13 @@
 
 <div align="center">
 <b>Santa Barbara 2022</b>
+<b>Michigan 2025</b>
  
 </div>
 <br/>
 
 <p align="center">
-<a href="https://rickz-portfolio.herokuapp.com/" target="_blank">Visit Rick's Professional Portfolio </a>
+<a href="https://rickzheng.streamlit.app/" target="_blank">Visit Rick's Professional Portfolio </a>
 </p>
 <br>
 
