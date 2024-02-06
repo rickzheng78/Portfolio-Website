@@ -12,7 +12,7 @@
 <br/>
 
 <p align="center">
-<a href="https://rickzheng.streamlit.app/" target="_blank">Visit Rick's Professional Portfolio </a>
+<a href="https://www.datascienceportfol.io/rickzheng" target="_blank">Visit Rick's Professional Portfolio </a>
 </p>
 <br>
 
