@@ -37,9 +37,6 @@ linkedin = {
 with st.sidebar:
         components.html(linkedin['script'], height = 310)
 
-pdfFileObj = open('images/Resume.pdf', 'rb')
-st.sidebar.download_button('Rick Zheng Resume',pdfFileObj,file_name='Resume.pdf',mime='pdf')
-
 #Home Page
 if menu_nav == 'Home Page':
 
@@ -72,20 +69,14 @@ if menu_nav == 'Home Page':
             -   DJ 
             """
         )
-        
 
     with education: 
         st.subheader("Education")
+        st.write('University of Michigan - Ann Arbor   \n'
+        'Applied Data Science ~ 2024')
+        st.write("")
         st.write('University of California - Santa Barbara   \n'
         'Statistics & Data Science B.S ~ 2022')
-        st.write("")
-        st.write("")
-        st.write("")
-
-        dj = Image.open("images/louis.jpeg")
-        st.image(dj, width = 450)
-
-
 
 if menu_nav == 'Text to Sentiment Classifier':
 
