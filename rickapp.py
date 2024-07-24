@@ -51,6 +51,7 @@ if menu_nav == 'Home Page':
     interests, education = st.columns(2)
 
     with interests:
+        st.write("")
         st.subheader("Interests")
         st.write(
             """
@@ -70,6 +71,7 @@ if menu_nav == 'Home Page':
         )
 
     with education: 
+        st.write("")
         st.subheader("Education")
         st.write('University of Michigan - Ann Arbor   \n'
         'Applied Data Science M.S ~ 2024')
