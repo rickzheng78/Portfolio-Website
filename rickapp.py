@@ -44,9 +44,9 @@ if menu_nav == 'Home Page':
     st.image(profpic, caption = '--- Taken @ Lizards Mouth Rock ---  Santa Barbara', width = 225)
 
     st.subheader('About Me')
-    st.write("My professional interests lie at the intersection of real-world machine learning applications and data visualization. "
-     "I have previous professional and academic experience with various computer modeling algorithms, constructing databases, and natural language processing. "
-     "My current goal is to gain the opportunity to gauage a better understanding of human-AI interactions and apply my data-driven skills in the workforce.")
+    st.write("My professional interests lie at the intersection of real-world business problem-solving and data visualization. "
+     "I have previous professional and academic experience with statistical analysis, database management, and data-driven decision making. "
+     "My current goal is to gain the opportunity to apply my data-driven skills for better change in the workforce.")
 
     interests, education = st.columns(2)
 
@@ -56,7 +56,7 @@ if menu_nav == 'Home Page':
             """
             -   Data Mining and Statistical Analysis
             -   Data Visualization and Presentation
-            -   Machine Learning / Cognitive Computing Development
+            -   Business Intelligence
             """
         )
 
@@ -64,16 +64,15 @@ if menu_nav == 'Home Page':
         st.write(
             """
             -   Cooking
-            -   Fishing
+            -   Travel
             -   Gym
-            -   DJ 
             """
         )
 
     with education: 
         st.subheader("Education")
         st.write('University of Michigan - Ann Arbor   \n'
-        'Applied Data Science ~ 2024')
+        'Applied Data Science M.S ~ 2024')
         st.write("")
         st.write('University of California - Santa Barbara   \n'
         'Statistics & Data Science B.S ~ 2022')
